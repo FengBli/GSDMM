@@ -11,8 +11,8 @@ This implementation is still on going.
 
 ## Reference
 - Paper
- - Yin, J. and Wang, J., 2014, August. _A dirichlet multinomial mixture model-based approach for short text clustering._ In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 233-242).ACM.
- - Nguyen, D. Q., Billingsley, R., Du, L., & Johnson, M. (2015). _Improving topic models with latent feature word representations._ , 3, 299-313.
+    - Yin, J. and Wang, J., 2014, August. _A dirichlet multinomial mixture model-based approach for short text clustering._ In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 233-242).ACM.
+    - Nguyen, D. Q., Billingsley, R., Du, L., & Johnson, M. (2015). _Improving topic models with latent feature word representations._ , 3, 299-313.
 - Code
-- [datquocnguyen/jLDADMM](https://github.com/datquocnguyen/jLDADMM): java version
- - [atefm/pDMM](https://github.com/atefm/pDMM): python version
+    - [datquocnguyen/jLDADMM](https://github.com/datquocnguyen/jLDADMM): java version
+    - [atefm/pDMM](https://github.com/atefm/pDMM): python version
